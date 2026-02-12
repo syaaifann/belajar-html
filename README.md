@@ -1,9 +1,3 @@
-Tentu, ini adalah draf `README.md` yang lengkap, rapi, dan terstruktur untuk repositori GitHub kamu. File ini dirancang agar siapa pun yang melihatnya (termasuk calon perekrut atau teman belajar) bisa melihat progres belajarmu dengan jelas.
-
-Kamu tinggal *copy-paste* kode di bawah ini ke dalam file bernama `README.md` di repositori kamu.
-
----
-
 ```markdown
 # 🚀 Perjalanan Belajar HTML-ku
 
@@ -121,16 +115,4 @@ Belajar HTML adalah langkah pertama yang seru di dunia Web Development. Setelah 
 
 ---
 
-**Dibuat dengan ❤️ oleh [Nama Kamu]**
-
-```
-
----
-
-### Sedikit tips untuk repositorimu:
-* **Gunakan folder:** Sebaiknya pisahkan setiap materi ke dalam folder (misal: `/01-dasar`, `/02-form`, dll) agar struktur repositorinya terlihat profesional.
-* **Screenshot:** Jika kamu sudah membuat halaman yang bagus (misal tabel atau form), ambil *screenshot* dan masukkan ke dalam README agar orang bisa langsung melihat hasilnya tanpa harus menjalankan kode.
-
-Apakah kamu ingin saya bantu membuatkan contoh kode spesifik untuk bagian **Form** atau **Table** yang bisa kamu simpan di dalam repositori tersebut?
-
-```
+**Dibuat dengan ❤️ oleh Sicopasz**
