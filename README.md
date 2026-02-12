@@ -1,2 +1,11 @@
-# belajar-html
-ini adalah repository proses saya belajar html
+🚀 Perjalanan Belajar HTML (My HTML Learning Journey)Repositori ini adalah dokumentasi proses belajar saya mengenai dasar-dasar pengembangan web menggunakan HTML (HyperText Markup Language). Di sini saya mencatat berbagai materi, mulai dari elemen dasar hingga penggunaan multimedia dan formulir.📑 Daftar IsiApa itu HTML?Instalasi & PersiapanStruktur Dasar HTMLTeks & TipografiDaftar (List)Navigasi & MultipageTabel & FormMultimedia🧐 Apa itu HTML?HTML adalah bahasa markup standar yang digunakan untuk membuat struktur halaman web. HTML memberikan kerangka bagi sebuah situs sebelum dihias dengan CSS atau diberi logika dengan JavaScript.🛠 Instalasi & PersiapanDalam proses belajar ini, saya menggunakan:Editor: Visual Studio CodeBrowser: Google Chrome / Mozilla Firefox.Ekstensi: Live Server (untuk pratinjau instan).🏗 Struktur Dasar HTMLSetiap dokumen HTML memiliki struktur kerangka sebagai berikut:<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Judul Proyek</title>
+</head>
+<body>
+    <!-- Konten di sini -->
+</body>
+</html>
+✍️ Teks & TipografiMateri yang dipelajari meliputi cara memanipulasi teks:ElemenTagDeskripsiHeading<h1> - <h6>Hierarki judul dari besar ke kecil.Paragraf<p>Digunakan untuk blok teks.Underline<u>Memberikan garis bawah pada teks.Subscript<sub>Teks di bawah garis (contoh: H<sub>2</sub>O).Superscript<sup>Teks di atas garis (contoh: E=mc<sup>2</sup>).Extra Text<strong>, <em>, <mark>Memberikan penekanan tebal, miring, atau sorotan.📜 Daftar (List)Ordered List (<ol>): Daftar berurutan (angka/abjad).Unordered List (<ul>): Daftar poin (bullet).List Item (<li>): Item di dalam daftar.🔗 Navigasi & MultipageLink: Menggunakan tag <a href="...">.Multipage: Menghubungkan beberapa file HTML dalam satu proyek (misalnya: menghubungkan index.html ke kontak.html).HTML Attributes: Mempelajari atribut penting seperti src, href, alt, target, id, dan class.📊 Tabel & FormTabelDigunakan untuk menyajikan data terstruktur:<table>, <tr> (row), <th> (header), dan <td> (data).FormDigunakan untuk menerima input dari pengguna:<form>, <input>, <label>, <textarea>, <select>, dan <button>.🎞 MultimediaMenyisipkan file media ke dalam halaman web:Gambar: <img src="path/ke/gambar.jpg" alt="deskripsi">Video: <video src="video.mp4" controls></video>Audio: <audio src="audio.mp3" controls></audio>💡 Rencana SelanjutnyaSetelah menguasai HTML, saya akan melanjutkan ke:[ ] Mempelajari CSS (Styling)[ ] Memahami CSS Layouting (Flexbox & Grid)[ ] Dasar-dasar JavaScriptDibuat oleh [Nama Anda] Semangat belajar dan terus berkarya! 💻✨
